@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>blog1</title>
+    <url>/2020/11/30/blog1/</url>
+    <content><![CDATA[<p>今天是11.30 </p>
+<p>我非常的开心<br>——————<br><a href="https://imgchr.com/i/DRfItf"><img src="https://s3.ax1x.com/2020/11/30/DRfItf.png" alt="DRfItf.png"></a></p>
+]]></content>
+      <tags>
+        <tag>dailylife</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2020/11/29/markdown/</url>
+    <content><![CDATA[<hr>
+<p>title: markdown<br>date: 2020-11-29 15:28:40<br>tags:  markdown </p>
+<ul>
+<li>debate</li>
+</ul>
+<hr>
+<p>辩论社社团安排<br>总体：围绕参与NSDA比赛<br>具体：第一周：介绍辩论流程以及一些经验 </p>
+<p>   第二周：介绍辩题&amp;介绍case</p>
+<p>   第三周：分析材料包</p>
+<p>   第四周：分析材料包</p>
+<p>   第五周：修改case</p>
+<p>   第六周：组织模拟辩论</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/11/29/hello-world/</url>
+    <content><![CDATA[<p>奇奇怪怪的</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>testing</category>
+      </categories>
+  </entry>
+</search>
